@@ -20,11 +20,12 @@ or comprehendable
 ## Results
 
 In 2018 the only  stocks which can be recommended to steve's parents are **ENPH** and **RUN**
-![2017allstockanalysisrefactered](Resources/2017allstockanalysisrefactered.png)
+![All Stocks 2018 Analysisrefactored](Resources/All Stocks 2018 Analysisrefactored.PNG)
 
 
  
 In 2017 all the stocks can be recommended to steve's parents except ** TERP **
+![2017allstockanalysisrefactered](Resources/2017allstockanalysisrefactered.png)
 
 There is a noticable difference time taken to run the code for unfactored and refactored stock analysis
 for both years 
