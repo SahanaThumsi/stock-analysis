@@ -20,7 +20,7 @@ or comprehendable
 ## Results
 
 In 2018 the only  stocks which can be recommended to steve's parents are **ENPH** and **RUN**
-![](images/Resources/2017allstockanalysisrefactered.png)
+![2017allstockanalysisrefactered](Resources/2017allstockanalysisrefactered.png)
 
 
  
